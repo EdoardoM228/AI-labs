@@ -71,3 +71,7 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 AI 1 lab/Library
+tic tac toe/Builds/Win-FrancosTicTacToe/Tic Tac Toe_Data
+tic tac toe/Library
+tic tac toe/Logs
+tic tac toe/obj
